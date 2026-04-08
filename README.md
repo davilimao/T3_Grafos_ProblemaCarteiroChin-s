@@ -12,10 +12,10 @@ Para eulerizar o grafo, foi realizado o seguinte processo:
 
 Para cada vertice, foi calculado o valor:
 
-desequilibrio = grau de entrada - grau de saida
+desequilibrio = Fluxo que sai - Fluxo que entra
 
-Valores positivos indicam falta de arestas de saida.
-Valores negativos indicam falta de arestas de entrada.
+Valores positivos indicam falta de arestas de entrada.
+Valores negativos indicam falta de arestas de saida.
 
 2. Agrupamento dos vertices em pares compativeis
 
